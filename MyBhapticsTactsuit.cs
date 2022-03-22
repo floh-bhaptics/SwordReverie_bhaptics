@@ -32,7 +32,7 @@ namespace MyBhapticsTactsuit
                 // Check if reset event is active
                 HeartBeat_mrse.WaitOne();
                 bHaptics.SubmitRegistered("HeartBeat");
-                Thread.Sleep(600);
+                Thread.Sleep(800);
             }
         }
         public void SlowHeartBeatFunc()
