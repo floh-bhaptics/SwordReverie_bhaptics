@@ -10,7 +10,7 @@ using HarmonyLib;
 using MyBhapticsTactsuit;
 using Il2Cpp;
 
-[assembly: MelonInfo(typeof(SwordReverie_bhaptics.SwordReverie_bhaptics), "SwordReverie_bhaptics", "1.0.0", "Florian Fahrenberger")]
+[assembly: MelonInfo(typeof(SwordReverie_bhaptics.SwordReverie_bhaptics), "SwordReverie_bhaptics", "2.0.0", "Florian Fahrenberger")]
 [assembly: MelonGame("IsekaiEntertainmentLLC", "SwordReverie")]
 
 namespace SwordReverie_bhaptics
