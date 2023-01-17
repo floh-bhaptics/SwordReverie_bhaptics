@@ -30,6 +30,10 @@
       <HintPath>D:\Games\Steam\steamapps\common\Sword Reverie\MelonLoader\Il2CppAssemblies\Assembly-CSharp.dll</HintPath>
       <Private>False</Private>
     </Reference>
+    <Reference Include="bHapticsLib">
+      <HintPath>D:\Games\Steam\steamapps\common\Sword Reverie\MelonLoader\net6\bHapticsLib.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
     <Reference Include="MelonLoader">
       <HintPath>D:\Games\Steam\steamapps\common\Sword Reverie\MelonLoader\net6\MelonLoader.dll</HintPath>
       <Private>False</Private>
