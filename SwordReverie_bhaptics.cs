@@ -9,6 +9,9 @@ using MelonLoader;
 using HarmonyLib;
 using MyBhapticsTactsuit;
 
+[assembly: MelonInfo(typeof(SwordReverie_bhaptics.SwordReverie_bhaptics), "SwordReverie_bhaptics", "1.0.0", "Florian Fahrenberger")]
+[assembly: MelonGame("IsekaiEntertainmentLLC", "SwordReverie")]
+
 namespace SwordReverie_bhaptics
 {
     public class SwordReverie_bhaptics : MelonMod
